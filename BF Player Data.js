@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Betfair Player Data (RX)
 // @namespace    http://tampermonkey.net/
-// @version      1.3
-// @description  RX's Player Data Script for BetFair TEST TEST
+// @version      1
+// @description  RX's Player Data Script for BetFair
 // @match        https://www.betfair.com/*
 // @updateURL    https://raw.githubusercontent.com/ritzzzy/BF-Player-Data/main/BF%20Player%20Data.js
 // @downloadURL  https://raw.githubusercontent.com/ritzzzy/BF-Player-Data/main/BF%20Player%20Data.js
